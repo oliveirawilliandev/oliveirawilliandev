@@ -1,16 +1,129 @@
-## Hi there 👋
+# Olá, sou Willian Ferreira de Oliveira 👋
 
-<!--
-**oliveirawilliandev/oliveirawilliandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Back-End Developer Java | Desenvolvedor Back-End Java**
 
-Here are some ideas to get you started:
+28 anos | Blumenau, Santa Catarina - Brasil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 Sobre Mim
+
+Desenvolvedor Back-End com foco em Java e Spring Boot, com sólida experiência em desenvolvimento de sistemas empresariais e infraestrutura. Possuo background em setores industriais e gráficos, trazendo uma visão prática de gestão de processos e sistemas. Apaixonado por código limpo, arquitetura de software e desenvolvimento de soluções escaláveis.
+
+---
+
+## 🎓 Formação Acadêmica
+
+### Engenharia de Software
+**UniCesumar - Universidade de Blumenau** | Em andamento
+
+### Análise e Desenvolvimento de Sistemas
+**UniCesumar - Universidade de Blumenau** | Concluído
+
+---
+
+## 💼 Experiência Profissional
+
+**Metalúrgica Weg**
+- 2 anos de experiência no setor industrial
+- Desenvolvimento de sistemas para otimização de processos
+
+**Gráfica Carton Druck**
+- 6 anos de experiência no setor gráfico
+- Participação em projetos de modernização de processos
+
+---
+
+## 📚 Cursos Profissionalizantes
+
+### ☕ Desenvolvedor Back-end - Java
+**SENAI/SC em parceria com Entra21** | 2024
+
+**Módulos:**
+- Módulo Básico
+- Módulo Complementar
+- Módulo Específico
+
+### 💻 Aprendizagem Industrial em Informática
+**SENAI/SC - Blumenau** | 2014
+
+**Tópicos:**
+- Conceitos de Bancos de Dados
+- Conceitos de Programação
+- Desenvolvimento de Páginas de Internet
+- Montagem e Manutenção de Computadores
+- Introdução a Redes de Computadores
+
+---
+
+## 📖 Cursos Online
+
+- **Java COMPLETO - Programação Orientada a Objetos** | Prof. Nélio Alves | 2023
+- **Spring Boot - Swagger, Docker, Kubernetes, JWT, JUnit, Mockito, AWS e GCP** | Erudio | 2024
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### Backend
+![Java](https://img.shields.io/badge/Java%2017+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### APIs & Services
+![RESTful API](https://img.shields.io/badge/RESTful%20API-1572B6?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![JasperReports](https://img.shields.io/badge/JasperReports-FF6B6B?style=for-the-badge)
+
+### Testing
+![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-25A162?style=for-the-badge)
+
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Build Tools
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
+---
+
+## 🚀 Principais Projetos
+
+### ERP Oliveira
+**Sistema ERP completo para gestão empresarial**
+
+Sistema robusto desenvolvido em Java e Spring Boot para gerenciamento integrado de operações empresariais, incluindo módulos de:
+- Gestão de vendas
+- Controle de estoque
+- Administração de recursos
+- Relatórios e análises
+
+**Status:** v1.0.0
+
+---
+
+## 📫 Entre em Contato
+
+- **Email:** [Entre em contato via GitHub](https://github.com/oliveirawilliandev)
+- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/seu-perfil)
+- **GitHub:** [github.com/oliveirawilliandev](https://github.com/oliveirawilliandev)
+
+---
+
+## 💡 Filosofia de Desenvolvimento
+
+Acredito em:
+- ✅ Código limpo e bem documentado
+- ✅ Testes automatizados e confiáveis
+- ✅ Arquitetura escalável e manutenível
+- ✅ Boas práticas de DevOps
+- ✅ Resolução prática de problemas reais
+
+---
+
+**Sempre aberto a novas oportunidades e desafios no desenvolvimento Back-End! 🚀**
