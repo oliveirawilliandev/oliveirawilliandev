@@ -99,7 +99,7 @@ Sistema robusto desenvolvido em Java e Spring Boot para gerenciamento integrado 
 
 ## 📫 Entre em Contato
 
-- **Email:** oliveira.willian.dev@gmail.com
+- **Email:** [oliveira.willian.dev@gmail.com](mailto:oliveira.willian.dev@gmail.com)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/oliveirawilliandev/)
 - **GitHub:** [github.com/oliveirawilliandev](https://github.com/oliveirawilliandev)
 
