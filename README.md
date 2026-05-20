@@ -1,14 +1,15 @@
-# Olá, sou Willian Ferreira de Oliveira 👋
+# Olá, sou Willian Ferreira de Oliveira 
 
 **Back-End Developer Java | Desenvolvedor Back-End Java**
 
-28 anos | Blumenau, Santa Catarina - Brasil
+29 anos | Blumenau, Santa Catarina - Brasil
 
 ---
 
 ## 📊 Sobre Mim
 
-Desenvolvedor Back-End com foco em Java e Spring Boot, com sólida experiência em desenvolvimento de sistemas empresariais e infraestrutura. Possuo background em setores industriais e gráficos, trazendo uma visão prática de gestão de processos e sistemas. Apaixonado por código limpo, arquitetura de software e desenvolvimento de soluções escaláveis.
+Em transição de carreira para a área de Tecnologia da Informação, com foco em Desenvolvimento Java Back-End. Venho desenvolvendo conhecimentos em Java, Spring Boot, APIs REST, SQL, Docker e versionamento com Git por meio de estudos e projetos práticos.
+Busco uma oportunidade em TI como Desenvolvedor Java Back-End (Trainee/Júnior), mantendo abertura para áreas correlatas, como Suporte Técnico, visando adquirir experiência prática, aprendizado contínuo e evolução profissional.
 
 ---
 
@@ -19,18 +20,6 @@ Desenvolvedor Back-End com foco em Java e Spring Boot, com sólida experiência 
 
 ### Análise e Desenvolvimento de Sistemas
 **UniCesumar - Universidade de Blumenau** | Concluído
-
----
-
-## 💼 Experiência Profissional
-
-**Metalúrgica Weg**
-- 2 anos de experiência no setor industrial
-- Desenvolvimento de sistemas para otimização de processos
-
-**Gráfica Carton Druck**
-- 6 anos de experiência no setor gráfico
-- Participação em projetos de modernização de processos
 
 ---
 
@@ -56,7 +45,7 @@ Desenvolvedor Back-End com foco em Java e Spring Boot, com sólida experiência 
 
 ---
 
-## 📖 Cursos Online
+## 📖 Cursos Online Udemy
 
 - **Java COMPLETO - Programação Orientada a Objetos** | Prof. Nélio Alves | 2023
 - **Spring Boot - Swagger, Docker, Kubernetes, JWT, JUnit, Mockito, AWS e GCP** | Erudio | 2024
@@ -109,8 +98,8 @@ Sistema robusto desenvolvido em Java e Spring Boot para gerenciamento integrado 
 
 ## 📫 Entre em Contato
 
-- **Email:** [Entre em contato via GitHub](https://github.com/oliveirawilliandev)
-- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/seu-perfil)
+- **Email:** [oliveira.willian.dev@gmail.com]
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/oliveirawilliandev/)
 - **GitHub:** [github.com/oliveirawilliandev](https://github.com/oliveirawilliandev)
 
 ---
