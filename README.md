@@ -26,14 +26,6 @@ Busco uma oportunidade em TI como Desenvolvedor Java Back-End (Trainee/Júnior),
 
 ## 📚 Cursos Profissionalizantes
 
-### ☕ Desenvolvedor Back-end - Java
-**SENAI/SC em parceria com Entra21** | 2024
-
-**Módulos:**
-- Módulo Básico
-- Módulo Complementar
-- Módulo Específico
-
 ### 💻 Aprendizagem Industrial em Informática
 **SENAI/SC - Blumenau** | 2014
 
@@ -43,6 +35,14 @@ Busco uma oportunidade em TI como Desenvolvedor Java Back-End (Trainee/Júnior),
 - Desenvolvimento de Páginas de Internet
 - Montagem e Manutenção de Computadores
 - Introdução a Redes de Computadores
+
+### ☕ Desenvolvedor Back-end - Java
+**SENAI/SC em parceria com Entra21** | 2024
+
+**Módulos:**
+- Módulo Básico
+- Módulo Complementar
+- Módulo Específico
 
 ---
 
