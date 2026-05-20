@@ -2,11 +2,14 @@
 
 **Back-End Developer Java | Desenvolvedor Back-End Java**
 
-🌐 Portfólio: [willianoliveiradev.com.br](http://willianoliveiradev.com.br/)
-
 29 anos | Blumenau, Santa Catarina - Brasil
 
+----
+
+🌐 Portfólio: [willianoliveiradev.com.br](http://willianoliveiradev.com.br/)
+
 ---
+
 
 ## 📊 Sobre Mim
 
