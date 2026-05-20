@@ -9,6 +9,7 @@
 ## 📊 Sobre Mim
 
 Em transição de carreira para a área de Tecnologia da Informação, com foco em Desenvolvimento Java Back-End. Venho desenvolvendo conhecimentos em Java, Spring Boot, APIs REST, SQL, Docker e versionamento com Git por meio de estudos e projetos práticos.
+
 Busco uma oportunidade em TI como Desenvolvedor Java Back-End (Trainee/Júnior), mantendo abertura para áreas correlatas, como Suporte Técnico, visando adquirir experiência prática, aprendizado contínuo e evolução profissional.
 
 ---
